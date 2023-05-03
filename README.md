@@ -1,4 +1,4 @@
-# MERN stack Admin Dashboard 
+# MERN Stack Admin Dash
 
 For similar project in prod, init two separate repos for front and back end.
 
